@@ -13,3 +13,8 @@
 *MENTOR* : NEELA SANTOSH
 
 *CODE* : 
+
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/11934f60-13f3-46d8-ad21-85cf4b3e5f7e" />
+
+
+*OUTPUT* : 
